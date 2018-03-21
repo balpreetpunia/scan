@@ -49,9 +49,9 @@ $dbh=null;
 <body>
 <div class="container" id="container1">
     <div class="jumbotron pb-4">
-        <h1><a href="/scan" >Count Inventory</a></h1>
+        <h1><a href="/" >Count Inventory</a></h1>
         <p>Select model to add to inventory. DO NOT REFRESH AFTER ADDING.</p>
-        <p><a href="/scan">&lt;&lt;Back</a></p>
+        <p><a href="/">&lt;&lt;Back</a></p>
     </div>
     <div class="input-field">
         <form id="calculator" method="post" action="">

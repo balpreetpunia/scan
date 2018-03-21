@@ -27,9 +27,9 @@
 <body>
     <div class="container">
         <div class="jumbotron pb-4">
-            <h1><a href="/scan" >Count Inventory</a></h1>
+            <h1><a href="/" >Count Inventory</a></h1>
             <p>View Counted Inventory</p>
-            <p><a href="/scan">&lt;&lt;Back</a></p>
+            <p><a href="/">&lt;&lt;Back</a></p>
         </div>
         <hr class="pb-3">
         <div class="table-responsive">
